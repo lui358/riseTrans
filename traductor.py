@@ -2,7 +2,7 @@ from lxml import etree
 from googletrans import Translator
 
 # Cargar y analizar el archivo XLIFF
-xliff_file_path = 'C:/fullstuck_cs50/riseTrans/archivos/Plan-docente-plataformas-educativas.xlf'
+xliff_file_path = 'C:/fullstuck_cs50/riseTrans/archivos/pt_Plan-docente-evaluacion-de-problemas-y-diseno-terapeutico.xlf'
 tree = etree.parse(xliff_file_path)
 root = tree.getroot()
 
@@ -15,7 +15,7 @@ translator = Translator()
 # Función para traducir texto al portugués
 def translate_to_portuguese(text):
     try:
-        translated = translator.translate(text, src='es', dest='pt')
+        translated = translator.translate(text, src='pt', dest='es')
         return translated.text
     except Exception as e:
         return str(e)
@@ -31,7 +31,7 @@ for trans_unit in root.xpath('//xliff:trans-unit', namespaces=namespaces):
         target_elem.text = translated_text
 
 # Guardar el archivo XLIFF traducido
-translated_xliff_file_path = 'C:/fullstuck_cs50/riseTrans/archivos/traducido/Plan-docente-plataformas-educativas-traducido.xlf'
+translated_xliff_file_path = 'C:/fullstuck_cs50/riseTrans/archivos/traducido/es_Plan-docente-plataformas-educativas-traducido.xlf'
 tree.write(translated_xliff_file_path, encoding='utf-8', xml_declaration=True, pretty_print=True)
 
 print("Traducción completada. Archivo guardado en:", translated_xliff_file_path)

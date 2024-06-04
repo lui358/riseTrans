@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="urn:oasis:names:tc:xliff:document:1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd" version="1.2" xml:space="preserve">
+  <file original="course" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>Plan docente del Módulo Evaluación de Problemas Psicológicos y Diseño Terapéutico</source>
+        <target>Avaliação do plano de ensino de módulos de problemas psicológicos e design terapêutico</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>
+          <g id="mdootElxxJCmV9Lx" ctype="x-html-P">
+            <g id="GQUuYppmbc79cuU8" ctype="x-html-STRONG">Evaluación de Problemas Psicológicos y Diseño Terapéutico</g>
+          </g>
+        </source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="avZ77OcV6RnBszCC7uKBnP0SpnPc3MSb" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>PLAN DOCENTE DEL MÓDULO</source>
+        <target>Plano de ensino do módulo</target>
+      </trans-unit>
+      <trans-unit id="items|id:clww9s14w002i3578m8mqckbb|items|id:clww9s14w002q3578czxr9lyi|heading">
+        <source>
+          <g id="EvQhEMOAiI42VZqE" ctype="x-html-P">
+            <g id="J5FRkgB7oqoAz6Hl" ctype="x-html-STRONG">
+              <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="ATk-zwsT3F6PcxuV" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">Evaluación de Problemas Psicológicos y Diseño Terapéutico</g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkaa6200o02a6wtkgj20m9|items|id:clwwkaa6200o12a6wsb44rf3b|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkaa6200o02a6wtkgj20m9|items|id:clwwkaa6200o12a6wsb44rf3b|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="oCr8CkbdlSKxn-uU4RSD09kONurcuKQA" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>MODALIDAD Y ÁREA</source>
+        <target>Modalidade e área</target>
+      </trans-unit>
+      <trans-unit id="items|id:cSFr0dh5mCnvBGlmw6WkDrJNpXqRdcuO|items|id:clww9zrc3003c3578xkg7lyns|paragraph">
+        <source>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="eH7XaYnlp_Xlmxg3" ctype="x-html-P" xhtml:style="text-align: center;">
+            <g id="b2aQWWRxz05qu1Fa" ctype="x-html-STRONG">
+              <g id="61bIDXajpJ47_LO_" ctype="x-html-SPAN" xhtml:style="font-size: 24px; color: rgb(255, 255, 255);">Modalidad</g>
+            </g>
+          </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="rTmlRBstY21B4Lpf" ctype="x-html-P" xhtml:style="text-align: center;">
+            <g id="u_lYPnrig-x75KH5" ctype="x-html-STRONG">
+              <g id="VnrTYOsVwFi9e5Vv" ctype="x-html-SPAN" xhtml:style="font-size: 24px; color: rgb(255, 255, 255);">E-Learnig</g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:cSFr0dh5mCnvBGlmw6WkDrJNpXqRdcuO|items|id:1|paragraph">
+        <source>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="FlwlB2rW0Qry8TLZ" ctype="x-html-P" xhtml:style="text-align: center;">
+            <g id="kzILF3W_4TKbfEW3" ctype="x-html-STRONG">
+              <g id="15B2TGjj8A_LP6qM" ctype="x-html-SPAN" xhtml:style="font-size: 24px; color: rgb(255, 255, 255);">Área</g>
+            </g>
+          </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="F7JUi49qWB7GOPP8" ctype="x-html-P" xhtml:style="text-align: center;">
+            <g id="RuZgn_bnlT3cxs5-" ctype="x-html-STRONG">
+              <g id="WdDr43gNu2EUfYrT" ctype="x-html-SPAN" xhtml:style="font-size: 24px; color: rgb(255, 255, 255);">Psicología</g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdi9ph002o356rev1gqybv|items|id:clwzdi9ph002u356rhwl292u5|paragraph">
+        <source>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="Hy4ZH6v6gXIl2jPj" ctype="x-html-TABLE" xhtml:class="fr-alternate-rows" xhtml:style="width: 100%;">
+            <g id="66bOYr_z7ThBc0dO" ctype="x-html-TBODY">
+              <g id="kQ61wJnavMPMDTek" ctype="x-html-TR">
+                <g id="8JZ6f0iF-Vnb1lhc" ctype="x-html-TD" xhtml:style="width: 33.2895%; text-align: center; background-color: rgb(0, 46, 93);">
+                  <g id="5L_XmZJpP2H7Awei" ctype="x-html-P">
+                    <g id="cE8xlH_Kgy6OvgfU" ctype="x-html-STRONG">
+                      <g id="H3Qh6fb1Hr4jfera" ctype="x-html-SPAN" xhtml:style="color: rgb(239, 239, 239); font-size: 16px;">Horas con Académico</g>
+                    </g>
+                  </g>
+                </g>
+                <g id="Y6rwkQrjoBdeb5KT" ctype="x-html-TD" xhtml:style="width: 33.3333%; text-align: center; background-color: rgb(0, 46, 93);">
+                  <g id="iooYkaZBU8q91AmX" ctype="x-html-P">
+                    <g id="MjoHTqa5vAyV3O4I" ctype="x-html-SPAN" xhtml:style="font-size: 16px;"><g id="P9LnxFEheHcuLw2x" ctype="x-html-SPAN" xhtml:style="color: rgb(255, 255, 255);"><g id="fwmVjYv-bR0E1VEg" ctype="x-html-STRONG">Horas Independientes</g></g> </g>
+                  </g>
+                </g>
+                <g id="qahbMRO-OUosM8iz" ctype="x-html-TD" xhtml:style="width: 33.2895%; text-align: center; background-color: rgb(0, 46, 93);">
+                  <g id="tMKiE5VR2eaGC0C6" ctype="x-html-SPAN" xhtml:style="font-size: 16px;">
+                    <g id="nS_Lt5qMZLNCbgJk" ctype="x-html-STRONG">
+                      <g id="6hKSMm-M9ACQtiEq" ctype="x-html-SPAN" xhtml:style="color: rgb(255, 255, 255);">Créditos</g>
+                    </g>
+                  </g>
+                  <g id="bL2zbnn-kcg-Oe4A" ctype="x-html-BR"/>
+                </g>
+              </g>
+              <g id="PN6cOBA05BdSLp15" ctype="x-html-TR">
+                <g id="8u3BLfnKtJIB4RU-" ctype="x-html-TD" xhtml:style="width: 33.2961%; text-align: center; background-color: rgb(239, 239, 239);">
+                  <g id="0n6avezTpfr_ExCc" ctype="x-html-STRONG">40</g>
+                </g>
+                <g id="CUctFdC3aoddl_uV" ctype="x-html-TD" xhtml:style="width: 33.3333%; text-align: center; background-color: rgb(239, 239, 239);">
+                  <g id="lUV5NKgTDwy5dxNX" ctype="x-html-STRONG">24</g>
+                </g>
+                <g id="BWH8hpIvsb0i_3YD" ctype="x-html-TD" xhtml:style="width: 33.2895%; text-align: center; background-color: rgb(239, 239, 239);">
+                  <g id="IPg7hwGjx3JndKjd" ctype="x-html-STRONG">4</g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="EVRKndViSEYfnkpX" ctype="x-html-P">
+            <g id="6CTxLK1yl6plhv0H" ctype="x-html-BR"/>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdi9ph002o356rev1gqybv|items|id:1|paragraph">
+        <source>
+          <g id="602S5rId8Q0g1lo5" ctype="x-html-P">Créditos</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkibgg00qw2a6w8iibs9e0|items|id:clwwkibgg00qx2a6w543o27xn|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkibgg00qw2a6w8iibs9e0|items|id:clwwkibgg00qx2a6w543o27xn|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Iob2c6Ydmo_t8DV5UUsdqVkQBLZeJWNd" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>IMPORTANCIA DEL MÓDULO EN EL PROGRAMA</source>
+        <target>Importância do módulo no programa</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkkeew00ux2a6woss24uhj|items|id:clwwkkeex00v32a6wmrvysf4l|paragraph">
+        <source>
+          <g id="dLomjGMtu6T0Zw56" ctype="x-html-P">El módulo Evaluación de Problemas Psicológicos y Diseño Terapéutico (I) se propone realizar una primera aproximación a las técnicas y procedimientos básicos<g id="PDz-Zqq8oZQLtUgH" ctype="x-html-BR"/>de evaluación de la conducta y sus alteraciones.<g id="NyGw7KqY8Q7x2lnE" ctype="x-html-BR"/>En este módulo, el alumno/a trabajará las cuestiones esenciales que giran entorno a la evaluación clínica, sin incidir en métodos propios de la evaluación de los<g id="swDBMbRCH-eeL-IP" ctype="x-html-BR"/>distintos trastornos psicológicos.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkp4k200vk2a6wwwuo26p8|items|id:clwwkp4k300vl2a6wb5pklodc|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkp4k200vk2a6wwwuo26p8|items|id:clwwkp4k300vl2a6wb5pklodc|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="zyumnuv3kGI8IaPYMFGF-LX4SuB8IaCE" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>RESULTADOS DE APRENDIZAJE</source>
+        <target>Resultados de aprendizado</target>
+      </trans-unit>
+      <trans-unit id="items|id:kFCQGDNmsdyqsyk9yc2TLV8e4YQycLNw|items|id:clwwawmsa008p3578dcl36vtk|heading">
+        <source>
+          <g id="uRxNvFXi64DSxC0B" ctype="x-html-P">
+            <g id="YUULZGbn9LB8ep1R" ctype="x-html-STRONG">
+              <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="29o7VoO5EYsNhuEB" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                <g id="DjKmttZCDkx0OmJM" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                  <g id="r9e-3CIQr8kenG2N" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38); font-size: 24px;">Resultado del Aprendizaje</g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:kFCQGDNmsdyqsyk9yc2TLV8e4YQycLNw|items|id:clwwawmsa008p3578dcl36vtk|paragraph">
+        <source>
+          <g id="5BNB1RWtrMyqd9sT" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="Q-ahzf2vFOo_OFcH" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+              <g id="DXOeEOcOl-Das6Wx" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                <g id="bLvZAH9MAqY5UyWA" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                  <g id="xC6ZBNQzyxxhUY7r" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">Cuando nos presentamos al momento presente con todos nuestros sentidos, invitamos al mundo a llenarnos de alegría. Los dolores del pasado han quedado atrás. El futuro aún está por desarrollarse. Pero el ahora está lleno de belleza esperando simplemente nuestra atención.</g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwluvtv01wx2a6wurs7jiv0|items|id:clwwluvtw01wy2a6wdcllqmft|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwluvtv01wx2a6wurs7jiv0|items|id:clwwluvtw01wy2a6wdcllqmft|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="j-a0OPhpquwqF3ImFZAHnjKqnAKaW7Lm" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>CONOCIMIENTOS PREVIOS O PRERREQUISITOS</source>
+        <target>Conhecimento anterior ou pré -requisito</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwkwf0d00zo2a6wdedsohtm|items|id:clwwkwf0d00zu2a6w53jv3csv|paragraph">
+        <source>
+          <g id="cFp0TqgWfpA1o7AC" ctype="x-html-P">No son necesarios conocimientos previos</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl3r9i01732a6wn1ldj3el|items|id:clwwl3r9i01742a6w4n07jsvi|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl3r9i01732a6wn1ldj3el|items|id:clwwl3r9i01742a6w4n07jsvi|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="wTorgCoBxhFxujQ7J2CXo6-NZlZRmcSe" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>COMPETENCIAS PROFESIONALES</source>
+        <target>Competências profissionais</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl1aip015k2a6wdyh9p3vj|items|id:clwwl1aiq015t2a6w3tkhm0ov|heading">
+        <source>
+          <g id="tctEZZ9_EMxXhXkL" ctype="x-html-P">
+            <g id="z6p46T8DAHT2Ecue" ctype="x-html-STRONG">
+              <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="EyUHt1bdJrPKc1Gf" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);">Una vez finalice el módulo, los alumnos serán capaces de:</g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl085g01532a6wn809ijxt|items|id:clwwl085g01542a6wpp533jjj|paragraph">
+        <source>
+          <g id="logGNd6cgkl_xKCt" ctype="x-html-P">Relacionar, identificar y analizar la información relativa a una primera<g id="yfIJm94PzOlpgRok" ctype="x-html-BR"/>entrevista.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl085g01532a6wn809ijxt|items|id:clwwl085g01552a6wmy3hgezx|paragraph">
+        <source>
+          <g id="scwHvX8HLqKJsw6M" ctype="x-html-P">Saber hacer el análisis funcional del caso.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl085g01532a6wn809ijxt|items|id:clwwl085g01562a6w690594ty|paragraph">
+        <source>
+          <g id="jBs2ZlTHzUKFDfKj" ctype="x-html-P">Diseñar un plan de tratamiento.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl085g01532a6wn809ijxt|items|id:clwwl35t2016a2a6wpjbmb039|paragraph">
+        <source>
+          <g id="dqxJp-loAB-5jghC" ctype="x-html-P">Analizar e identificar las habilidades sociales que requiere un buen terapeuta.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl3js7016b2a6wzk2z4cn3|items|id:clwwl3js8016c2a6w6aoxbef4|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl3js7016b2a6wzk2z4cn3|items|id:clwwl3js8016c2a6w6aoxbef4|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="elZ02JLAwrdQpFVlrD8El8ivDEeIXF6l" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>COMPETENCIAS TRASVERSALES</source>
+        <target>Competições transversais</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl7fnn01892a6wtkcp10fj|items|id:clwwl7fno018a2a6wxphr190c|paragraph">
+        <source>
+          <g id="orZmPIjtmOUkz_s5" ctype="x-html-P">Compromiso ético y social.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl7fnn01892a6wtkcp10fj|items|id:clwwl7fno018b2a6w7wa52owc|paragraph">
+        <source>
+          <g id="TxuHV62G7wu65P78" ctype="x-html-P">Pensamiento crítico.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl7fnn01892a6wtkcp10fj|items|id:clwwl7fno018c2a6wblthimlv|paragraph">
+        <source>
+          <g id="w2MopOqLEmkBTlol" ctype="x-html-P"> Iniciativa y espíritu emprendedor.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl7fnn01892a6wtkcp10fj|items|id:clwwlh3ep018q2a6wvrh9kimr|paragraph">
+        <source>
+          <g id="CQLXgioW2gO_7e-9" ctype="x-html-P">Interés por la calidad de la propia actuación y capacidad para desarrollar<g id="kJpTG7_cJLtgmf6V" ctype="x-html-BR"/>sistemas que garanticen la calidad de los propios servicios.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwl7fnn01892a6wtkcp10fj|items|id:clwwlhcny018r2a6wxky6t0yy|paragraph">
+        <source>
+          <g id="DR5TVZAnOVFV1j5e" ctype="x-html-P"> Capacidad para pensar de forma creativa y desarrollar nuevas ideas.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlhnqx018s2a6wia58py10|items|id:clwwlhnqx018t2a6ww0rs69ex|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlhnqx018s2a6wia58py10|items|id:clwwlhnqx018t2a6ww0rs69ex|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="pQKHgnudOK7UhRz2IYXRU8WuCxKgS9tX" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>CONTENIDOS</source>
+        <target>CONTEÚDO</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwze0ia9008h356rss6m5ggr|items|id:clwze0ia9008p356rgtj78sxk|heading">
+        <source>
+          <g id="n2ulnwureCQQgoPI" ctype="x-html-P">
+            <g id="qh-10DCMeSQbCbZC" ctype="x-html-STRONG"> CONTENIDOS TEMÁTICOS</g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzdvwmx006t356r0y1mj63r|title">
+        <source>TEMA I: EVALUACIÓN DE LOS TRASTORNOS PSICOLÓGICOS</source>
+        <target>Tópico I: Avaliação de distúrbios psicológicos</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzdvwmx006t356r0y1mj63r|description">
+        <source>
+          <g id="QGi93xebRvlF_rAt" ctype="x-html-P">
+            <g id="awX_hS9ICvP_KLwo" ctype="x-html-STRONG">
+              <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="525iZF-OFMimUTPN" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">1.</g>
+            </g>
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="lU1Gn6jy9aFV68Z5" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);"><g id="j37Rtyv5ZiiF9m7W" ctype="x-html-STRONG"> Evaluación y trastornos psicológicos</g> </g>
+          </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="myQS6C-dUuBvlMoX" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.1. Introducción a la evaluación. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="NqD8P86MZyoOzamd" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.2. Concepto de evaluación de trastornos psicológicos. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="A8arWuNedkAKxmzn" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.3. Breve reseña histórica. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="YYsKI3Xdbqo-DtmM" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.4. Modelos básicos de evaluación clínica. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="Wo5viTvMIR53ZMfF" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.5. Definición del modelo. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="ZhClO6B4ouHwJ_af" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.6. El modelo de atributos. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="JuOTu_40JEdZs5Mh" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.7. El modelo conductista-radical. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="WpiV4xIGdtCSuPUM" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.8. Los modelos mediacionales. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="r7yhnktLBa6ka6YG" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.9. El modelo cognitivo-conductual. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="T6qKuJ2f7mlI9GZL" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.10. Modelo dinámico.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwze7omn00a8356riky18ery|title">
+        <source>TEMA II: EVALUACIÓN INICIAL Y MÉTODOS DE RECOGIDA DE INFORMACIÓN </source>
+        <target>Tópico II: Métodos iniciais de avaliação e coleta de informações</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwze7omn00a8356riky18ery|description">
+        <source>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="cfjd0kmvVWCjVPf7" ctype="x-html-P" xhtml:style="margin-left: 20px;">
+            <g id="3963qZNXDMMc4RHb" ctype="x-html-STRONG">
+              <g id="NncgDrkC5bT5IobT" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">1. El procesos de evaluación</g>
+            </g>
+            <g id="IIsW1O2GMmnrcHal" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);"> </g>
+          </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="rq-DilJIkHg2oy_8" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.1. Introducción a la evaluación y recogida de información. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="XcQ6YIuZQxWhyaop" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.2. Concepto de evaluación de los problemas psicológicos. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="4RZSLNyW8khfWQWZ" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.3. La exploración inicial. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="ieZ_RkK0FbQjClj0" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.4. El análisis del motivo de consulta. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="PYuEvnC-H_R2gNuN" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.5. Modelo de entrevista inicial semiestructurada. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="DstFfgn3tA_EEfSl" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.6. Genograma familiar. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="wLNYp_xHh9wTMbsX" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.7. El análisis funcional de la conducta. </g>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="rNPuJxR3eWtn0RU0" ctype="x-html-P" xhtml:style="margin-left: 20px;">1.8. La formulación de hipótesis.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzfpzvu001m2a6w4m5fc2g1|title">
+        <source>TEMA III. MÉTODOS DE RECOGIDA DE INFORMACIÓN</source>
+        <target>Tópico III.Métodos de coleta de informações</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzfpzvu001m2a6w4m5fc2g1|description">
+        <source>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="Yz845BZCC0u73FuY" ctype="x-html-P" xhtml:style="margin-left: 20px;"><g id="NxOriGbWBCWzab48" ctype="x-html-STRONG"><g id="Fne7-viKiia3_9_J" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">1. Proceso de recogida de información</g></g><g id="1edOYaViiqGCJkw5" ctype="x-html-BR"/>1.1. Introducción al proceso de evaluación.<g id="ZUSAxSEKR9P-kDIu" ctype="x-html-BR"/>1.2. La observación. Aspectos preliminares.<g id="Z8gapYHuTOJcsjSi" ctype="x-html-BR"/>1.3. Métodos de observación y muestreo.<g id="QzNW1PFhRvYnHalC" ctype="x-html-BR"/>1.4. El autoinforme.<g id="IZztE2Wledy0Pjbs" ctype="x-html-BR"/>1.5. El autorregistro.<g id="CgTUlb7Z_ui9m78Y" ctype="x-html-BR"/>1.6. Instrumentación para la evaluación psicofisiológica.<g id="9iAdwt1dmcSEbFUQ" ctype="x-html-BR"/>1.7. Consideraciones generales y ejemplos.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzg2701001s2a6w61m4gggg|title">
+        <source>TEMA IV. INTERPRETACIÓN DE LOS RESULTADOS E INFORME DE EVALUACIÓN</source>
+        <target>Tópico IV.Interpretação dos resultados e relatório de avaliação</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzg2701001s2a6w61m4gggg|description">
+        <source>
+          <g id="vIe3M62fc1dWyyMx" ctype="x-html-P"><g id="UxdLwW22GZVHllE6" ctype="x-html-STRONG"><g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="a4GIrwlXZRsZ-sLP" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">1. Interpretación y evaluación</g></g><g id="ciyyzFSLjO2qsO_I" ctype="x-html-BR"/>1.1. Interpretación de los resultados en el contexto clínico</g>
+          <g id="n8MaHXJZqtD5cRlj" ctype="x-html-P">1.2. Interpretación de los resultados.<g id="nMjoSYMwFZPziaz4" ctype="x-html-BR"/>1.3. DSM-5.<g id="8aJmNw8Dr1zM7t2R" ctype="x-html-BR"/>1.4. El informe de evaluación y tipos de informe.<g id="quu9JFiv3f9uAOft" ctype="x-html-BR"/>1.5. Comunicación oral y escrita del informe.<g id="9p84bk9rxz3UQZDE" ctype="x-html-BR"/>1.6. Consentimiento informado y ley de protección de datos.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzg3t3k001v2a6wiad27dvz|title">
+        <source>TEMA V. HABILIDADES DEL TERAPEUTA EN LA EVALUACIÓN CLÍNICA</source>
+        <target>Tópico V. Habilidades do terapeuta em avaliação clínica</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzg3t3k001v2a6wiad27dvz|description">
+        <source>
+          <g id="zJPSwfRNmH8Qh5l7" ctype="x-html-P"><g id="RdL_B1n6kMmBn7fZ" ctype="x-html-STRONG"><g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="rLr42l5kUWuV9I7r" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">1. Habilidades y evaluación</g></g><g id="amUY92Ut-thH1DCW" ctype="x-html-BR"/>1.1. Importancia de las habilidades del terapeuta.<g id="0QGUeeCLEXpA10r3" ctype="x-html-BR"/>1.2. Pautas y habilidades para la evaluación.<g id="Xv1kHRkqiv2odZYK" ctype="x-html-BR"/>1.3. Habilidades sociales y clasificación</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzg5hix001y2a6w21bqqf34|title">
+        <source>TEMA VI. DISEÑO DEL PLAN DE TRATAMIENTO Y LA VALORACIÓN DE LOS RESULTADOS</source>
+        <target>Tópico VI.Projeto do plano de tratamento e avaliação de resultados</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwzdvwmw006r356rfrr4nipl|items|id:clwzg5hix001y2a6w21bqqf34|description">
+        <source>
+          <g id="hG3w3EOIjF-13B5R" ctype="x-html-P"><g id="RhMArR7-OMKHtso1" ctype="x-html-STRONG"><g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="PT8-_lzrf0eGubuZ" ctype="x-html-SPAN" xhtml:style="color: rgb(0, 46, 93);">1. Plan de tratamiento y valoración de resultados</g></g><g id="x2PbVTd0rZNEKb0t" ctype="x-html-BR"/>1.1. Introducción al plan de tratamiento y valoración de resultados.<g id="PFu5TX_9wYOcVpOD" ctype="x-html-BR"/>1.2. El plan de tratamiento.<g id="of6gzEj4xeM8MDxs" ctype="x-html-BR"/>1.3. Intervenciones apoyadas en la evidencia.<g id="EjKP2wuAqapeJhlQ" ctype="x-html-BR"/>1.4. La valoración de los resultados.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlk1jg01ct2a6wfg49vb6q|items|id:clwwlk1jg01cu2a6wjngwlwiz|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlk1jg01ct2a6wfg49vb6q|items|id:clwwlk1jg01cu2a6wjngwlwiz|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="P9rQSYRUhBlyaMURN5sj685104_XOmEE" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>ORIENTACIONES METODOLÓGICAS Y TEMPORALIZACIÓN /  RECURSOS Y MEDIOS A UTILIZAR</source>
+        <target>Orientações metodológicas e de temporalização e recursos e meios para usar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlnz8901kh2a6w7nyqr9rb|items|id:clwwlnz8901ki2a6wjuc6721m|front|description">
+        <source>
+          <g id="f7AHqa3nlMetTpSO" ctype="x-html-P">ORIENTACIONES<g id="l-r9pqCfQnOqjHXK" ctype="x-html-BR"/>METODOLÓGICAS<g id="lM90lzjY__-63kQm" ctype="x-html-BR"/>Y TEMPORALIZACIÓN</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlnz8901kh2a6w7nyqr9rb|items|id:clwwlnz8901ki2a6wjuc6721m|back|description">
+        <source>
+          <g id="nrbi0I1_9itSPlsb" ctype="x-html-P">El módulo se imparte en modalidad e-Learning.<g id="Gcytv5aF5lIHwufj" ctype="x-html-BR"/>Las actividades propuestas pretenden profundizar y aplicar los contenidos tratados.<g id="a23vq6RNxvPfh02g" ctype="x-html-BR"/>Para la realización de las actividades evaluativas de este módulo se facilitará toda<g id="u4qG4o5RSWWhyO2j" ctype="x-html-BR"/>la información a través de Campus Virtual ISEP.<g id="mSlnmSXiLTuv5RnP" ctype="x-html-BR"/>Además del tiempo destinado a la realización de las actividades, los alumnos/as<g id="eeHSIoocsaqI_csU" ctype="x-html-BR"/>deberán leer y analizar con atención todos los materiales facilitados a través de<g id="4aU6rZIe_5yq0lC6" ctype="x-html-BR"/>Campus ISEP.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlnz8901kh2a6w7nyqr9rb|items|id:clwwlnz8901kj2a6w1qm8be0c|front|description">
+        <source>
+          <g id="BS0nR3M1O5JNFJZ6" ctype="x-html-P">RECURSOS Y MEDIOS<g id="BqjJwmjmz9VirH-u" ctype="x-html-BR"/>A UTILIZAR</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlnz8901kh2a6w7nyqr9rb|items|id:clwwlnz8901kj2a6w1qm8be0c|back|description">
+        <source>
+          <g id="Z7T6GJxNJ5ha2HHn" ctype="x-html-P">• Unidades didácticas accesibles a través de Campus Virtual ISEP.<g id="LnjzR22dZlZy8r3r" ctype="x-html-BR"/>• Documentos complementarios en formato PDF.<g id="2vgTnWaOXt2M_oKu" ctype="x-html-BR"/>• Bibliografía y webgrafía.<g id="49XKJycLwbquUt8k" ctype="x-html-BR"/>• Glosario del módulo, implementado en las unidades didácticas.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlqjw101l82a6wl38cck55|items|id:clwwlqjw101l92a6wexlcqieq|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlqjw101l82a6wl38cck55|items|id:clwwlqjw101l92a6wexlcqieq|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="YqxLB9hxCgEw02tuin0Ak0gLxGa5_RJv" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>BIBLIOGRAFÍA</source>
+        <target>BIBLIOGRAFIA</target>
+      </trans-unit>
+      <trans-unit id="items|id:gj4OUzm5RDXluSaMPFxPnKWiS7PFsvHq|items|id:clwwatji5008235781ooju7z6|heading">
+        <source>
+          <g id="ExMgR5YmALTdhkUQ" ctype="x-html-P">
+            <g id="OLvNDOUk2FCypbpV" ctype="x-html-STRONG">
+              <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="PGVN9CTI-YTL7t03" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);">
+                <g id="u10otLmbA8VW1Uf2" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                  <g id="8n0SDrl4z1sizvnF" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                    <g id="TbVxnSLknqTnwCLl" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                      <g id="44b95UAS8K_yu0or" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                        <g id="3MmOdPannpjwNUY0" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                          <g id="D9QAph7Al_2wqKU1" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                            <g id="cuVxLi4n1PiCJ_X1" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                              <g id="ZnBg0pNteKmfEGGt" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">Bibliografía</g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:gj4OUzm5RDXluSaMPFxPnKWiS7PFsvHq|items|id:clwwatji5008235781ooju7z6|paragraph">
+        <source>
+          <g id="aMS3fKC1yc8NqJ3g" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="Y-yQ7Ou41uG5qf9j" ctype="x-html-SPAN" xhtml:style="font-size: 16px;">ANGUERA, M. T. (1993). Metodología observacional en la investigación psicológica.<g id="iO3lKrI9p31MPyPJ" ctype="x-html-BR"/>Barcelona: PPU.<g id="g40EBBwGHBR4kW7v" ctype="x-html-BR"/>BADOS, A. (1999). Agorafobia y ataques de pánico. Madrid: Pirámide.<g id="KvCQ9Fyl34OuQvcT" ctype="x-html-BR"/>BAS, F. y VERANIA, A. (1996). Diagnóstico, evaluación de la severidad y análisis fun-<g id="fL6KqNlcINMqyxfx" ctype="x-html-BR"/>cional de la depresión. En G. Buela-Casal et al., Manual de evaluación en psicología<g id="kIMy3uR-bQonu0nj" ctype="x-html-BR"/>clínica y de la salud. Madrid: Siglo XXI de España Editores.<g id="qq-DkBQInHkCzkeE" ctype="x-html-BR"/>BINET, A. y HENRI, D. (1905). Psychologie individuelle. L’année psychologique, 2, p.<g id="LTHbuvnUqk0uLt7P" ctype="x-html-BR"/>411-465.<g id="NYgtbwmd2FVGl78P" ctype="x-html-BR"/>BUELA-CASAL, G., CABALLO, V. E., y SIERRA, J. C. (dirs.) (1996). Manual de evaluación<g id="Oa3qk-cV0kZdiZ1t" ctype="x-html-BR"/>en psicología clínica y de la salud. Madrid: Siglo XXI de España Editores.<g id="Qg5xGL_YH8hTnu44" ctype="x-html-BR"/>BUELA-CASAL, G. y SIERRA, J. C. (dirs.) (1997). Manual de evaluación psicológica:<g id="cj0lPX4-Avpv4VtK" ctype="x-html-BR"/>Fundamentos, técnicas y aplicaciones. Madrid: Siglo XXI de España Editores.</g>
+          </g>
+          <g id="FnEIE77y5gaVqLU_" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="s-NZNL65P40qcus_" ctype="x-html-SPAN" xhtml:style="font-size: 16px;">CABALLO, V. E. (1995). Manual de técnicas de terapia y modificación de conducta.<g id="095G23m5diDL-6iY" ctype="x-html-BR"/>Madrid: Siglo XXI de España Editores.<g id="yFZOIxcJhA2RbBAJ" ctype="x-html-BR"/>CABALLO, V. E. (1997). Manual para el tratamiento cognitivo-conductual de los tras-<g id="p-JTT-qcoJ8I3jlm" ctype="x-html-BR"/>tornos psicológicos, vol. I y II. Madrid: Siglo XXI de España Editores.<g id="oc3hTdbYKIsgkT2B" ctype="x-html-BR"/>CASTANYER, O. (1998). La asertividad: expresión de una sana autoestima. Madrid:<g id="MTKnYM_ZJmMRhEW7" ctype="x-html-BR"/>Editorial Desclée de Brouwer.<g id="Bdcz3x3aeC7v-JUr" ctype="x-html-BR"/>COHEN, R. J. y SWERDLIK, M. E. (2001). Pruebas y evaluación psicológica. Introduc-<g id="sko6e3zXQ0cRXvZV" ctype="x-html-BR"/>ción a las pruebas y a la medición. México: McGraw-Hill.<g id="fl_XjeDb40cISXH9" ctype="x-html-BR"/>CULLARI, S. (2001). Fundamentos de psicología clínica. México: Pearson Educación.<g id="Embhb-6fKpakHgK7" ctype="x-html-BR"/>DI NARDO, P. A. y BARLOW, D. H. (1988). Anxiety disorders Interview Schedule-Revised<g id="IXsFN_2s6KPucZsm" ctype="x-html-BR"/>(ADIS-R). Albany, NY: Graywind Publications.<g id="Dg4qkTfuKep95lc8" ctype="x-html-BR"/>ENDICOTT, J. y SPITZER, R. L. (1978). A Diagnostic Interview: The Schedule for Affec-<g id="ZKXx6pARCvAG1u_a" ctype="x-html-BR"/>tive Disorders and Schizophrenia. Archives of General Psychiatry, 35, p. 837-844.<g id="AhhuM5D0Un5lDTT4" ctype="x-html-BR"/>ESPADA, J. P., OLIVARES, J., y MÉNDEZ, F. X. (2005). Terapia psicológica. Madrid: Pi-<g id="RspLcLqwrVEM29M5" ctype="x-html-BR"/>rámide.<g id="jg8jkUm_T-HAtBJC" ctype="x-html-BR"/>EZPELETA, L. (2001). La entrevista diagnóstica con niños y adolescentes. Madrid:<g id="tfKkXZWK4_OmH9m_" ctype="x-html-BR"/>Síntesis.<g id="dt9QBCx5mussfPSY" ctype="x-html-BR"/>FERNÁNDEZ-BALLESTEROS, R. (1992). Introducción a la evaluación psicológica.<g id="hoRvYYiiOUNRNADi" ctype="x-html-BR"/>2 vols. Madrid: Pirámide.<g id="wvpocRrzIa1LQ-we" ctype="x-html-BR"/>FERNÁNDEZ-BALLESTEROS, R. (2004). Evaluación psicológica: conceptos, métodos y<g id="PSi9Y3uA6tgwVy5L" ctype="x-html-BR"/>estudio de casos. Madrid: Pirámide.<g id="I-X5DuNUJ748ZLWe" ctype="x-html-BR"/>GAVINO, A. (2002). Guía de ayuda al terapeuta cognitivo-conductual. Madrid: Pirámide.<g id="RHD-FCtWdyRTXgT_" ctype="x-html-BR"/>GAVINO, A. (2004). Tratamientos psicológicos y trastornos clínicos. Madrid: Pirámide.<g id="tSdHAIS_K8uQACmV" ctype="x-html-BR"/>GODOY, A. (1996). Toma de decisiones y juicio clínico. Una aproximación psicológica.<g id="Jp9QbodgWWQiOx7E" ctype="x-html-BR"/>Madrid: Pirámide.<g id="ntHojh8JziDSvw7X" ctype="x-html-BR"/>GOODMAN, W. K. et al. (1989). The Yale-Brown Obsessive Compulsive Scale: I. De-<g id="hYo0fPVuLzwr2Fdn" ctype="x-html-BR"/>velopment, use, and reliability. Archives of General Psychiatry, 46, p. 1006-1011.<g id="tHCNxS1-iIi7tl6m" ctype="x-html-BR"/>MÁRQUEZ, M. (2004). ¿Qué es la entrevista? Madrid: Biblioteca Nueva.<g id="hYh5FDNFVW1e9V4S" ctype="x-html-BR"/>MORENO, C. (2005). Evaluación psicológica. Concepto, proceso y aplicación en las<g id="l8e8n-K6e0AGN3oz" ctype="x-html-BR"/>áreas de desarrollo e inteligencia. Madrid: Editorial Sanz y Torres.<g id="anL-WF4JXz4HmQII" ctype="x-html-BR"/>MUÑIZ, J. (1998). La medición de lo psicológico. Psicothema, 10 (1), p. 1-21.<g id="02dnvjRnluWdUwGp" ctype="x-html-BR"/>MUÑOZ, M. (2003). Manual práctico de Evaluación psicológica clínica. Madrid: Síntesis.</g>
+          </g>
+          <g id="uVPdDfPWazWisYBj" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="t_HfotNa9yVu6mmW" ctype="x-html-SPAN" xhtml:style="font-size: 16px;">OTHMER, E. y OTHMER, S. (2003). DSM-IV-TR. La entrevista clínica. Barcelona: Masson.<g id="x_ZA0vq-olTHBuTJ" ctype="x-html-BR"/>SILVA, F. (1999). Fundamentos psicométricos de la evaluación conductual. Madrid:<g id="G6uJhb1ZhSpquohk" ctype="x-html-BR"/>Pirámide.<g id="2p4_CemkpQZZqmRF" ctype="x-html-BR"/>SIMÓN, M. A. y AMENEDO, E. (2001). Manual de psicofisiología clínica. Madrid: Pirá-<g id="0VV3HWvW1rOrHQmm" ctype="x-html-BR"/>mide.<g id="FGB5MtkMSqz2umoc" ctype="x-html-BR"/>STAATS, A. W. (1997). Conducta y personalidad. Conductismo psicológico. Bilbao:<g id="bbx9oRzSgVXzt-gs" ctype="x-html-BR"/>Desclée de Brouwer.<g id="dCaIK0WCGsY-dENC" ctype="x-html-BR"/>TRULL, T. J. y PHARES, E. J. (2003). Psicología clínica. Conceptos, métodos y aspectos<g id="QOnJ74jTneC_c2xI" ctype="x-html-BR"/>prácticos de la profesión. México: Thomson Editores.<g id="7KIAFRGQ8xyqc6_Q" ctype="x-html-BR"/>VALLEJO, J. (2011). Introducción a la psicopatología y la psiquiatría. Barcelona:<g id="DWf-mMHBgKhMjdD-" ctype="x-html-BR"/>Masson.<g id="Mm7OQ6bofNwM5xmZ" ctype="x-html-BR"/>VÁZQUEZ, C. y MUÑOZ, M. (2002). Entrevista diagnóstica en salud mental. Madrid:<g id="5OIiCKtQpqC2mBpn" ctype="x-html-BR"/>Síntesis.</g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlspbx01sw2a6wzz8ohcga|items|id:clwwlspbx01sx2a6wlpwr7nj8|title">
+        <source>CONTINUE</source>
+        <target>Continuar</target>
+      </trans-unit>
+      <trans-unit id="items|id:clwwlspbx01sw2a6wzz8ohcga|items|id:clwwlspbx01sx2a6wlpwr7nj8|completeHint">
+        <source>Complete the content above before moving on.</source>
+        <target>Preencha o conteúdo acima antes de seguir em frente.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="hFeZaFWgmtt2on9rfyvvZZ2F-J-hswhD" datatype="plaintext" source-language="en-US">
+    <body>
+      <trans-unit id="title">
+        <source>PLAN DE EVALUACIÓN</source>
+        <target>Plano de avaliação</target>
+      </trans-unit>
+      <trans-unit id="items|id:DuIlcW0dnnwCqx0nRnbjE2JTr9h7o1Jk|items|id:clwwaz84i009r3578evfqhjtt|heading">
+        <source>
+          <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="qDfk-_dHkoRhYzMd" ctype="x-html-P" xhtml:style="text-align: center;">
+            <g id="F72DNM4ngJMEigdB" ctype="x-html-STRONG">
+              <g id="LibOU3s3-bSkoC6x" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                <g id="BT-BtUNxDeGZio3B" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                  <g id="Aaz97NRyEoj4RYtW" ctype="x-html-SPAN" xhtml:style="color: rgb(255, 255, 255);">Plan de evaluación </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:5R6-KDX8Hahk5uaSSMslA7hkoOcoxapj|items|id:clwwazras00a93578doifqc6u|front|description">
+        <source>
+          <g id="INQo85K1cb6-1WGA" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="zZy6n9ovBbQ6pWIF" ctype="x-html-SPAN" xhtml:style="font-size: 20px;">
+              <g id="09Tzj8mkp7LAATox" ctype="x-html-STRONG">
+                <g id="p2PcAfQfKkVWH7iM" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);">
+                  <g id="zdh_nwmWi1Z8X7ae" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                    <g id="-OC9-uwDB4TWwcAa" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                      <g id="occGVYVfNw0tz4B8" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                        <g id="6NSBZtyX2V1yAQJG" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">Supuesto practico</g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="slEcsVa8ib09Tjd5" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);"> </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:5R6-KDX8Hahk5uaSSMslA7hkoOcoxapj|items|id:clwwazras00a93578doifqc6u|back|description">
+        <source>
+          <g id="ZS3TsZUeYZDpoPtI" ctype="x-html-P">Ponderación: </g>
+          <g id="GClOmtwFMe-wrEoN" ctype="x-html-P">40 % de la nota final.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:5R6-KDX8Hahk5uaSSMslA7hkoOcoxapj|items|id:clwwazras00aa3578cjn1czgn|front|description">
+        <source>
+          <g id="KM0zpns2YgG43SX7" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="oZZlre4YdBQPpWrZ" ctype="x-html-SPAN" xhtml:style="font-size: 20px;">
+              <g id="akdHhY45pgaptLhM" ctype="x-html-STRONG">
+                <g id="0Odv1hiGKRkbaQ0x" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                  <g id="14KUc2Alr_wvIy1k" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                    <g id="dTggW_lYpaR6k2oI" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);">Actividad de análisis funcional</g>
+                  </g>
+                </g>
+              </g>
+              <g id="YQpyu6ihqEW86VD2" ctype="x-html-STRONG">
+                <g id="k0KAZl2lKl82jsuA" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);"> </g>
+              </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:5R6-KDX8Hahk5uaSSMslA7hkoOcoxapj|items|id:clwwazras00aa3578cjn1czgn|back|description">
+        <source>
+          <g id="iVym6bbaZsmGkEz5" ctype="x-html-P">Ponderación: </g>
+          <g id="HEK07B3nsaIABbjw" ctype="x-html-P">40 % de la nota final.</g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:5R6-KDX8Hahk5uaSSMslA7hkoOcoxapj|items|id:clwwazras00ab3578kui88a4w|front|description">
+        <source>
+          <g id="RV5s9JtSi3bQQ2VL" ctype="x-html-P">
+            <g xmlns:xhtml="http://www.w3.org/1999/xhtml" id="AvF0iuHrFL0iSlDJ" ctype="x-html-SPAN" xhtml:style="font-size: 20px;">
+              <g id="B6DGi1F8cYrQ6zbc" ctype="x-html-STRONG">
+                <g id="HwxpNYMBcd7dG-zB" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                  <g id="C-ElG2LMYSQgQ97M" ctype="x-html-FONT" xhtml:style="vertical-align: inherit;">
+                    <g id="YEPajB1rzljghihb" ctype="x-html-SPAN" xhtml:style="color: rgb(245, 121, 38);">Realidad virtual y ACT en un caso de trastorno adaptativo </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </source>
+      </trans-unit>
+      <trans-unit id="items|id:5R6-KDX8Hahk5uaSSMslA7hkoOcoxapj|items|id:clwwazras00ab3578kui88a4w|back|description">
+        <source>
+          <g id="XKPLlWt5ja7w1f8I" ctype="x-html-P">Ponderación: </g>
+          <g id="Kkuu0vi6FbXdBk-E" ctype="x-html-P">20 % de la nota final.</g>
+        </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
